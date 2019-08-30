@@ -9,8 +9,7 @@ need to predict the future stock value. The objective of this project is mainly 
 1. Preprocess the dataset according to the our objective. Our objective is explained in the following
 paragraphs.
 2. To forecast the stock market prices to make more informed and accurate investment decisions. We will
-make the use of Long Short Term Memory of the Recurrent Neural Network Deep Learning algorithm, and
-ARIMA for this purpose.
+make the use of Long Short Term Memory of the Recurrent Neural Network Deep Learning algorithm.
 This is a study about the last four years' function in stock market, which enables the investor to make decisions
 regarding investment. While there are various factors which directly or indirectly affect the market, we will target
 our research on sector-wise trends and profits. The project discusses recent machine learning & forecasting
